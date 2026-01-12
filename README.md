@@ -9,12 +9,12 @@ Run the script directly, make sure its executable: `sudo chmod +x hotrod.sh`.
 ```
 
 ## all features
-**Encoding/Decoding:** Base64, Hex, and other formats
-**Hashing:** Generate hashes (MD5, SHA1, SHA256, etc.)
-**Encryption:** Simple encryption/decryption helpers
-**Forensics:** Tools for analyzing files and extracting metadata
-**Analysis:** General utilities for inspecting data
-**Network:** Basic networking utilities
+- **Encoding/Decoding:** Base64, Hex, and other formats
+- **Hashing:** Generate hashes (MD5, SHA1, SHA256, etc.)
+- **Encryption:** Simple encryption/decryption helpers
+- **Forensics:** Tools for analyzing files and extracting metadata
+- **Analysis:** General utilities for inspecting data
+- **Network:** Basic networking utilities
 
 ---
 # License
