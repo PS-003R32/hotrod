@@ -3,9 +3,14 @@ CTF Swiss Army Knife.
 HOTROD is a comprehensive, terminal-based utility script designed for Capture The Flag (CTF) players and cybersecurity enthusiasts. It combines common tasks such as encoding, hashing, encryption, forensics, and network analysis into a single, easy-to-use menu interface.
 
 ## usage
-Run the script directly, make sure its executable: `sudo chmod +x hotrod.sh`. Use the latest updated version of this tool.
+* Run the script directly, make sure its executable: `sudo chmod +x hotrod.sh`.
 ```bash
 ./hotrod.sh
+```
+* Use the latest updated version of this tool.
+* Add the script to the bin folder to make it a command.
+```bash
+sudo mv hotrod.sh /usr/local/bin/hotrod
 ```
 
 ## all features
